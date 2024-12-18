@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @csumah
-- 👀 I’m interested in: learning new languages like java, HTML, CSS, etc.
+- 👀 I’m interested in: learning new languages like SQL, HTML, CSS, etc.
 - 🌱 I’m currently learning: assembly which is what prompted me making this account on github.
 - 💞️ I’m looking to collaborate on: Not much right now besides school work
 - 📫 How to reach me: my email csumah1@umbc.edu
