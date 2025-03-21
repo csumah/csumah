@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @csumah
-- 👀 I’m interested in: learning new languages like SQL, HTML, CSS, etc.
-- 🌱 I’m currently learning: assembly which is what prompted me making this account on github.
-- 💞️ I’m looking to collaborate on: Not much right now besides school work
-- 📫 How to reach me: my email csumah1@umbc.edu
+- 👀 I’m interested in: Data Science, Data Analytics, AI/ML, Software Engineering, and Big data.
+- 🌱 I’m currently learning: Docker, SQL, and CSS
+- 💞️ I’m looking to collaborate on: Creating New and Exciting Projects!
+- 📫 How to reach me: my email celestinesumah@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I failed my first CS class >:(
+- ⚡ Fun fact: I was originally going to school for Mechanical Engineering
 
 <!---
 csumah/csumah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
